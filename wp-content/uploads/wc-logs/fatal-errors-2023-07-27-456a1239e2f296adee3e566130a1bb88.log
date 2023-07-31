@@ -1,0 +1,24 @@
+2023-07-27T10:30:24+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Amino_Megamenu does not have a method "save_menu_meta_options" in /home/u848568311/domains/trycyferdev.com/public_html/yummy/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/u848568311/domains/trycyferdev.com/public_html/yummy/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/u848568311/domains/trycyferdev.com/public_html/yummy/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/u848568311/domains/trycyferdev.com/public_html/yummy/wp-admin/admin-ajax.php(188): do_action()
+#3 {main}
+  thrown in /home/u848568311/domains/trycyferdev.com/public_html/yummy/wp-includes/class-wp-hook.php on line 308
+
+2023-07-27T10:30:37+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Amino_Megamenu does not have a method "save_menu_meta_options" in /home/u848568311/domains/trycyferdev.com/public_html/yummy/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/u848568311/domains/trycyferdev.com/public_html/yummy/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/u848568311/domains/trycyferdev.com/public_html/yummy/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/u848568311/domains/trycyferdev.com/public_html/yummy/wp-admin/admin-ajax.php(188): do_action()
+#3 {main}
+  thrown in /home/u848568311/domains/trycyferdev.com/public_html/yummy/wp-includes/class-wp-hook.php on line 308
+
+2023-07-27T10:37:16+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Amino_Megamenu does not have a method "save_menu_meta_options" in /home/u848568311/domains/trycyferdev.com/public_html/yummy/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/u848568311/domains/trycyferdev.com/public_html/yummy/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 /home/u848568311/domains/trycyferdev.com/public_html/yummy/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/u848568311/domains/trycyferdev.com/public_html/yummy/wp-admin/admin-ajax.php(188): do_action()
+#3 {main}
+  thrown in /home/u848568311/domains/trycyferdev.com/public_html/yummy/wp-includes/class-wp-hook.php on line 308
+

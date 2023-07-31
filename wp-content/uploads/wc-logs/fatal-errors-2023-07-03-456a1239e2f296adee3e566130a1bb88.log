@@ -1,0 +1,40 @@
+2023-07-03T05:37:03+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Amino_Megamenu does not have a method "save_menu_meta_options" in C:\xampp\htdocs\yummy\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\xampp\htdocs\yummy\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#1 C:\xampp\htdocs\yummy\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\yummy\wp-admin\admin-ajax.php(188): do_action('wp_ajax_rt_save...')
+#3 {main}
+  thrown in C:\xampp\htdocs\yummy\wp-includes\class-wp-hook.php on line 308
+
+2023-07-03T05:37:17+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Amino_Megamenu does not have a method "save_menu_meta_options" in C:\xampp\htdocs\yummy\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\xampp\htdocs\yummy\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#1 C:\xampp\htdocs\yummy\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\yummy\wp-admin\admin-ajax.php(188): do_action('wp_ajax_rt_save...')
+#3 {main}
+  thrown in C:\xampp\htdocs\yummy\wp-includes\class-wp-hook.php on line 308
+
+2023-07-03T05:44:43+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Amino_Megamenu does not have a method "save_menu_meta_options" in C:\xampp\htdocs\yummy\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\xampp\htdocs\yummy\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#1 C:\xampp\htdocs\yummy\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\yummy\wp-admin\admin-ajax.php(188): do_action('wp_ajax_rt_save...')
+#3 {main}
+  thrown in C:\xampp\htdocs\yummy\wp-includes\class-wp-hook.php on line 308
+
+2023-07-03T05:44:50+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Amino_Megamenu does not have a method "save_menu_meta_options" in C:\xampp\htdocs\yummy\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\xampp\htdocs\yummy\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#1 C:\xampp\htdocs\yummy\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\yummy\wp-admin\admin-ajax.php(188): do_action('wp_ajax_rt_save...')
+#3 {main}
+  thrown in C:\xampp\htdocs\yummy\wp-includes\class-wp-hook.php on line 308
+
+2023-07-03T05:51:04+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Amino_Megamenu does not have a method "save_menu_meta_options" in C:\xampp\htdocs\yummy\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\xampp\htdocs\yummy\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#1 C:\xampp\htdocs\yummy\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\yummy\wp-admin\admin-ajax.php(188): do_action('wp_ajax_rt_save...')
+#3 {main}
+  thrown in C:\xampp\htdocs\yummy\wp-includes\class-wp-hook.php on line 308
+
